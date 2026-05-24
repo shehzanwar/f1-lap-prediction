@@ -254,7 +254,7 @@ The preprocessing pipeline in `f1_script.py` prepares data for three distinct su
 
 ## Results
 
-[f1_correlation_heatmap.png]
+![Correlation Heatmap](/f1_correlation_heatmap.png)
 
 The correlation heatmap (`f1_correlation_heatmap.png`) illustrates relationships between all numeric features and target variables. Qualifying session times and grid position exhibit strong positive correlation with finishing position and fastest lap time.
 
